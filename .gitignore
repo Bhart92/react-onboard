@@ -9,7 +9,8 @@
 # production
 /build
 /src
-
+.babelrc
+webpack.config.js
 
 # misc
 .DS_Store
