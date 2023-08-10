@@ -1,5 +1,5 @@
 {
-  "name": "onboarder",
+  "name": "react-onboard",
   "version": "20.1.1",
   "description": "My webpack project",
   "main": "dist/index.js",
